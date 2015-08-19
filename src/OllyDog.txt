@@ -1,0 +1,1 @@
+Debug/DllMain.cpp.obj Debug/CmdBar.cpp.obj Debug/Options.cpp.obj Debug/CmdExe.cpp.obj Debug/CmdLog.cpp.obj Debug/CoreApi.cpp.obj Debug/Python.cpp.obj Debug/Lua.cpp.obj Debug/Perl.cpp.obj   
